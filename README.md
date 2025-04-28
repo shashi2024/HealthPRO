@@ -1,1 +1,1 @@
-# HealthPRO
+HealthPRO is an innovative healthcare management platform designed to bridge the gap between patients, doctors, and medical institutions. By leveraging modern technology, HealthNet ensures seamless access to healthcare services, efficient appointment scheduling, and better patient-doctor communication. The system is tailored to meet the needs of both urban and rural areas, promoting equitable access to quality healthcare. Main Specilaization is it has a pandemic tracking system that can use for iddentify infelction deceases around the contry.
