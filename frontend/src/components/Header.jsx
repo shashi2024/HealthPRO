@@ -2,7 +2,7 @@ import { Navbar, Nav, Container, NavDropdown } from "react-bootstrap";
 import { LinkContainer } from "react-router-bootstrap";
 import { useSelector, useDispatch } from "react-redux";
 import { useNavigate, useLocation } from "react-router-dom"; // Import useLocation to get current path
-import { useLogoutMutation } from "../slices/usersApiSlice";
+import { useLogoutMutation } from "../slices/userApiSlice";
 import { logout } from "../slices/authSlice";
 
 import "../styles/Header.css";

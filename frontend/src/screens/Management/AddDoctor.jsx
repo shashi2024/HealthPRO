@@ -5,7 +5,7 @@ import { Col, Container, Row, Form, Button } from "react-bootstrap"; // Using Bo
 import AdminDashboardSideNavbar from "../../components/AdminDashboardSideNavbar"; // Side Navbar component
 import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
 
-import "../../styles/Doctors.css"; // Same styling as Doctors page
+import "../../styles/Doctor.css"; // Same styling as Doctors page
 
 const AddDoctor = () => {
   const [doctor, setDoctor] = useState({

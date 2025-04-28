@@ -12,7 +12,7 @@ import {
   FormControl,
 } from "react-bootstrap"; // Import Bootstrap components
 import AdminDashboardSideNavbar from "../../components/AdminDashboardSideNavbar"; // Import side navbar
-import "../../styles/Doctors.css"; // Ensure styles are applied
+import "../../styles/Doctor.css"; // Ensure styles are applied
 
 function Doctor() {
   const [doctors, setDoctors] = useState([]);

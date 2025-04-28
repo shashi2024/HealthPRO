@@ -5,7 +5,7 @@ import { Col, Container, Row, Form, Button } from "react-bootstrap"; // Using Bo
 import AdminDashboardSideNavbar from "../../components/AdminDashboardSideNavbar"; // Side Navbar component
 import { useNavigate, useParams } from "react-router-dom"; // Import useNavigate and useParams for navigation and route parameters
 
-import "../../styles/Doctors.css"; // Same styling as Doctors page
+import "../../styles/Doctor.css"; // Same styling as Doctors page
 
 const EditDoctor = () => {
   const { id } = useParams(); // Get the doctor's ID from the URL
